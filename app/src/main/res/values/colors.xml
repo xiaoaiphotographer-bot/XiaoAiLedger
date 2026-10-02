@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6B9D</color>
+    <color name="primary_dark">#E85587</color>
+    <color name="primary_light">#FFE4EC</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F5F5F7</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="text_primary">#1D1D1F</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_hint">#C7C7CC</color>
+    <color name="expense">#FF3B30</color>
+    <color name="income">#34C759</color>
+    <color name="divider">#F2F2F7</color>
+    <color name="selected_day">#FFE4EC</color>
+</resources>
